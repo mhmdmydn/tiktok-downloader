@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TikTify</string>
+    <string name="logoSubtitleDownloader">Downloader</string>
+    <string name="titleTiktokDownloader">Tiktok</string>
+    <string name="labelImageLogo">LOGO</string>
+    <string name="labelSearchBtn">Search</string>
+    <string name="labelSearchEdittext">Search...</string>
+</resources>
